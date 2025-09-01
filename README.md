@@ -1,4 +1,4 @@
-# Hi, I'm Muntasib 👋
+# Hi, I'm Muhib 👋
 
 💡 **AI Engineer & Backend-Focused Full-Stack Developer**  
 I specialize in integrating **AI into real-world applications** and building **scalable backend systems**. With 4+ years of experience, I thrive at solving complex problems, conducting R&D, and turning ideas into practical, business-ready products.  
@@ -48,4 +48,3 @@ I specialize in integrating **AI into real-world applications** and building **s
 
 ## 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/muhib-c)  
-- [Email](muntasibchowdhury@gmail.com)  
