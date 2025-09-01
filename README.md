@@ -47,6 +47,5 @@ I specialize in integrating **AI into real-world applications** and building **s
 ---
 
 ## 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)  
-- [Portfolio](https://yourwebsite.com)  
-- [Email](mailto:your.email@example.com)  
+- [LinkedIn](https://www.linkedin.com/in/muhib-c)  
+- [Email](muntasibchowdhury@gmail.com)  
